@@ -8,7 +8,7 @@ This **repository** contains all what you need from resources, case studies and 
 
 ### What you will find?
 - **Introduction**
-  - Why you need to read this guidelines?
+  - [Why you need to read this guidelines?](/introduction/0.why-to-read.md)
 - **Development environment:**
   - What is mini app?
   - What is the host app?
