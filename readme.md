@@ -11,7 +11,7 @@ This **repository** contains all what you need from resources, case studies and 
   - [Why you need to read this guidelines?](/introduction/0.why-to-read.md)
 - **Development environment:**
   - What is mini app?
-  - What is the host app () ?
+  - What is the host app ( Super app ) ?
   - In what language the mini app is written?
   - The reason to use tailwind instead of regular css and scss? 
   - Why using Svelte as the main framework for the mini app programming?
