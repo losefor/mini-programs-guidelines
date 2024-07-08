@@ -1,4 +1,4 @@
-# Mini programs Guid lines
+# Mini programs Guide lines
 
 Telegram, Wechat and many other chinese products are called as **mini app runtime environments**
 
@@ -11,7 +11,7 @@ This **repository** contains all what you need from resources, case studies and 
   - [Why you need to read this guidelines?](/introduction/0.why-to-read.md)
 - **Development environment:**
   - What is mini app?
-  - What is the host app?
+  - What is the host app () ?
   - In what language the mini app is written?
   - The reason to use tailwind instead of regular css and scss? 
   - Why using Svelte as the main framework for the mini app programming?
