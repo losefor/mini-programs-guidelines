@@ -11,8 +11,12 @@
             "id": "f17896488c9e8cd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.devloper-environment/0.index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.devloper-environment/0.index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.devloper-environment/0.index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.devloper-environment/0.index.md"
+              }
             }
           }
         ]
@@ -141,6 +149,14 @@
   },
   "active": "f17896488c9e8cd2",
   "lastOpenFiles": [
+    "1.devloper-environment/1.what-is-mini-app.md",
+    "1.devloper-environment/2.why-a-mini-app.md",
+    "1.devloper-environment/3.what-is-super-app.md",
+    "1.devloper-environment/4.in-what-language.md",
+    "1.devloper-environment/5.why-tailwind-instead-of-css.md",
+    "1.devloper-environment/6.why-svelte.md",
+    "1.devloper-environment/7.dev-env-and-debugging.md",
+    "1.devloper-environment/0.index.md",
     "Excalidraw/mini-app-env.excalidraw",
     "0.introduction/2.what-is-mini-app-env.md",
     "0.introduction/assets/mini-app-env.png",

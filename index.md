@@ -11,11 +11,13 @@ This **repository** contains all you need from resources, case studies, and real
   - [Why do you need to read these guidelines?](/0.introduction/0.why-to-read.md)
   - [what is a mini app/program runtime environment?](/0.introduction/2.what-is-mini-app-env.md)
 - **Development environment:**
-  - What is mini app?
-  - What is the host app ( Super app ) ?
-  - In what language the mini app is written?
-  - The reason to use tailwind instead of regular css and scss? 
-  - Why using Svelte as the main framework for the mini app programming?
+  - [What is a mini-app?](/1.devloper-environment/1.what-is-mini-app.md)
+  - [Why a mini-app instead of a regular app?](/1.devloper-environment/2.why-a-mini-app.md)
+  - [What is the host-app **( Super app )**?](/1.devloper-environment/3.what-is-super-app.md)
+  - [In what language the mini app is written?](/1.devloper-environment/4.in-what-language.md)
+  - [The reason to use tailwind instead of regular css and scss?](/1.devloper-environment/5.why-tailwind-instead-of-css.md)
+  - [Why using Svelte as the main framework for the mini app programming?](/1.devloper-environment/6.why-svelte.md)
+  - [Devtools the basics on how to debug your app?](/1.devloper-environment/7.dev-env-and-debugging.md)
 - **Design guidelines:**
   - Why this is differ from host app to another?
   - Layout standards
