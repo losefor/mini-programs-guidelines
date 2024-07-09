@@ -23,7 +23,7 @@ This **repository** contains all you need from resources, case studies, and real
   - Layout standards
   - Color schemes
   - Typography
-  - [iconography](/2.design)
+  - [iconography](/2.design-guidelines/5.iconography.md)
 - **User experience:** 
   - Navigation patterns:
   - User interactions
