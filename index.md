@@ -1,14 +1,15 @@
-# Mini programs Guide lines
+# Mini programs Guidelines
 
-Telegram, Wechat and many other chinese products are called as **mini app runtime environments**
+Telegram, WeChat, and many other  products are called as **mini-app runtime environments**
 
 
 ### What this repository contains
-This **repository** contains all what you need from resources, case studies and real life examples on how to architect and implement **the** mini-programs in the best way to increase the success of you mini program application.
+This **repository** contains all you need from resources, case studies, and real-life examples on how to architect and implement the mini-programs in the best way to increase the success of your mini-program application.
 
-### What you will find?
+### What will you find?
 - **Introduction**
-  - [Why you need to read this guidelines?](/0.introduction/0.why-to-read.md)
+  - [Why do you need to read these guidelines?](/0.introduction/0.why-to-read.md)
+  - [what is a mini app/program runtime environment?](/0.introduction/2.what-is-mini-app-env.md)
 - **Development environment:**
   - What is mini app?
   - What is the host app ( Super app ) ?
@@ -20,13 +21,14 @@ This **repository** contains all what you need from resources, case studies and 
   - Layout standards
   - Color schemes
   - Typography
-  - Iconography
+  - [iconography](/2.design)
 - **User experience:** 
   - Navigation patterns:
   - User interactions
   - Accessibility considerations
 - **Performance Standards:**
   - Load Times: Recommended load times for mini apps.
+  - Caching and updates
   - Resource Usage: Guidelines for efficient use of memory, CPU, and battery.
   - Optimizations: Tips for optimizing performance (e.g., lazy loading, caching strategies).
 - **Security Guidelines**
@@ -62,16 +64,6 @@ This **repository** contains all what you need from resources, case studies and 
   - Case Studies: Share case studies or success stories.
 
 
-### what is  mini app/program runtime environment?
-**A mini app runtime environment:** is a lightweight platform or ecosystem that allows small, often specialized applications (mini apps) or sometimes called mini programs to run within a larger application or framework. Here are the basics:
-
-**Mini Apps or (Mini programs):** These are small, standalone applications designed to perform specific tasks. They are often simpler and faster than full-fledged applications.
-
-**Host Application:** This is the main application that provides the environment for mini apps to run. For example, a social media platform or an e-commerce app can act as a host for various mini apps.
-
-**Runtime Environment:** This refers to the infrastructure and tools that allow mini apps to run. It includes the necessary libraries, APIs (Application Programming Interfaces), and services that mini apps use to function.
-
-
 ### What this repository includes?
 - **UI/UX:** A complete design system, UI Kits and examples on how to design you mini app
 - **Technical decisions:** Will show you various ways to architect you app 
@@ -96,3 +88,10 @@ Speed: Mini apps are designed to be fast and responsive.
 Integration: They can leverage the existing user base and features of the host app, providing a cohesive experience.
 Conclusion
 Mini app runtime environments make it easy to deliver specialized functionality within larger applications, enhancing user experience by providing quick, integrated, and secure access to various services.
+
+
+### Resources
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/)
+- [Design for Android Guidelines](https://developer.android.com/design/ui)
+- [Alipay Mini Program Guidelines](https://miniprogram.alipay.com/docs/)
+- [Wechat Mini Program Guidelines](https://developers.weixin.qq.com/miniprogram/en/design/#User-Friendly-and-Courteous)
