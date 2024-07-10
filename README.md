@@ -24,6 +24,9 @@ This **repository** contains all you need from resources, case studies, and real
   - [iconography](/2.design-guidelines/5.iconography.md)
 - **User experience:** 
   - Navigation patterns:
+    - Prioritize
+    - Sequence
+    - Deconstruct
   - User interactions
   - Accessibility considerations
 - **Mini app Performance Standards:**
