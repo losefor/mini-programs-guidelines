@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.design-guidelines/3.color-scheme.md",
+                "file": "1.devloper-environment/5.why-tailwind-instead-of-css.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.design-guidelines/3.color-scheme.md",
+                "file": "1.devloper-environment/5.why-tailwind-instead-of-css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.design-guidelines/3.color-scheme.md",
+                "file": "1.devloper-environment/5.why-tailwind-instead-of-css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.design-guidelines/3.color-scheme.md"
+                "file": "1.devloper-environment/5.why-tailwind-instead-of-css.md"
               }
             }
           }
@@ -149,6 +149,17 @@
   },
   "active": "f17896488c9e8cd2",
   "lastOpenFiles": [
+    "2.design-guidelines/2.4.modal-navigation.md",
+    "2.design-guidelines/2.3.stack-navigation copy.md",
+    "2.design-guidelines/2.3.stack-navigation.md",
+    "2.design-guidelines/2.2.stack-navigation.md",
+    "2.design-guidelines/2.2.bottom-navigation copy.md",
+    "2.design-guidelines/2.2.bottom-navigation.md",
+    "2.design-guidelines/2.1.drawer-navigation.md",
+    "2.design-guidelines/2.bottom-navigation.md",
+    "2.design-guidelines/2.drawer-navigation copy.md",
+    "2.design-guidelines/2.drawer-navigation.md",
+    "2.design-guidelines/3.color-scheme.md",
     "2.design-guidelines/assets/color-palette.png",
     "2.design-guidelines/assets/Color Palette.png",
     "README.md",
@@ -158,7 +169,6 @@
     "Excalidraw/Drawing 2024-07-09 11.07.24.excalidraw.md",
     "Excalidraw",
     "2.design-guidelines/4.typography.md",
-    "2.design-guidelines/3.color-scheme.md",
     "2.design-guidelines/2.layout.md",
     "1.devloper-environment/7.dev-env-and-debugging.md",
     "1.devloper-environment/6.why-svelte.md",
@@ -171,12 +181,7 @@
     "2.design-guidelines/2.in-what-language.md",
     "1.devloper-environment/1.what-is-mini-app.md",
     "1.devloper-environment/2.why-a-mini-app.md",
-    "1.devloper-environment/3.what-is-super-app.md",
     "2.design-guidelines/assets/lucide-logo.svg",
-    "2.design-guidelines/assets/lucide.png",
-    "iconography.md",
-    "2.design-guidelines/5.iconography.md",
-    "0.introduction/0.why-to-read.md",
-    "2.design-guidelines/1.why-this-is-differ.md"
+    "2.design-guidelines/assets/lucide.png"
   ]
 }
