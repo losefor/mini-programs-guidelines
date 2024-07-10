@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.devloper-environment/0.index.md",
+                "file": "2.design-guidelines/3.color-scheme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.devloper-environment/0.index.md",
+                "file": "2.design-guidelines/3.color-scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.devloper-environment/0.index.md",
+                "file": "2.design-guidelines/3.color-scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.devloper-environment/0.index.md"
+                "file": "2.design-guidelines/3.color-scheme.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "f17896488c9e8cd2",
   "lastOpenFiles": [
+    "2.design-guidelines/assets/color-palette.png",
+    "2.design-guidelines/assets/Color Palette.png",
     "README.md",
+    "1.devloper-environment/0.index.md",
     "index.md",
     "Excalidraw/mini-app-env.excalidraw",
     "Excalidraw/Drawing 2024-07-09 11.07.24.excalidraw.md",
@@ -169,7 +172,6 @@
     "1.devloper-environment/1.what-is-mini-app.md",
     "1.devloper-environment/2.why-a-mini-app.md",
     "1.devloper-environment/3.what-is-super-app.md",
-    "1.devloper-environment/0.index.md",
     "2.design-guidelines/assets/lucide-logo.svg",
     "2.design-guidelines/assets/lucide.png",
     "iconography.md",

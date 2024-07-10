@@ -1,8 +1,6 @@
 # Mini programs Guidelines
 
 Telegram, WeChat, and many other  products are called as **mini-app runtime environments**
-
-
 ### What this repository contains
 This **repository** contains all you need from resources, case studies, and real-life examples on how to architect and implement the mini-programs in the best way to increase the success of your mini-program application.
 
@@ -28,11 +26,12 @@ This **repository** contains all you need from resources, case studies, and real
   - Navigation patterns:
   - User interactions
   - Accessibility considerations
-- **Performance Standards:**
+- **Mini app Performance Standards:**
   - Load Times: Recommended load times for mini apps.
   - Caching and updates
   - Resource Usage: Guidelines for efficient use of memory, CPU, and battery.
   - Optimizations: Tips for optimizing performance (e.g., lazy loading, caching strategies).
+- **What Makes a good Super app?**
 - **Security Guidelines**
   - Data Privacy: How to handle user data responsibly and comply with relevant regulations.
   - Authentication: Standards for user authentication and session management.
