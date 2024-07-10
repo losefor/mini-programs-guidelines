@@ -92,7 +92,5 @@ Mini app runtime environments make it easy to deliver specialized functionality 
 
 
 ### Resources
-- [Apple Human Interface Guidelines](https://developer.apple.com/design/)
-- [Design for Android Guidelines](https://developer.android.com/design/ui)
 - [Alipay Mini Program Guidelines](https://miniprogram.alipay.com/docs/)
 - [Wechat Mini Program Guidelines](https://developers.weixin.qq.com/miniprogram/en/design/#User-Friendly-and-Courteous)
