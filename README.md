@@ -16,6 +16,7 @@ This **repository** contains all you need from resources, case studies, and real
   - [The reason to use tailwind instead of regular css and scss?](/1.devloper-environment/5.why-tailwind-instead-of-css.md)
   - [Why using Svelte as the main framework for the mini app programming?](/1.devloper-environment/6.why-svelte.md)
   - [Devtools the basics on how to debug your app?](/1.devloper-environment/7.dev-env-and-debugging.md)
+  - [Testing your application on the host application](/1.devloper-environment/8.test-on-host.md)
 - **Design guidelines:**
   - Why this is differ from host app to another?
   - Layout standards

@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77730db2fcc7c934",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "1b9f3c9de9250f32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f17896488c9e8cd2",
+  "active": "1b9f3c9de9250f32",
   "lastOpenFiles": [
     "2.design-guidelines/assets/color-palette.png",
     "2.design-guidelines/2.4.modal-navigation.md",
