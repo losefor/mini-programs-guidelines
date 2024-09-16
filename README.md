@@ -35,6 +35,7 @@ This **repository** contains all you need from resources, case studies, and real
   - Caching and updates
   - Resource Usage: Guidelines for efficient use of memory, CPU, and battery.
   - Optimizations: Tips for optimizing performance (e.g., lazy loading, caching strategies).
+  - [Finding and Removing code duplicates](/4.mini-app-performance-standards/finding-duplicates.md)
 - **What Makes a good Super app?**
 - **Security Guidelines**
   - Data Privacy: How to handle user data responsibly and comply with relevant regulations.
