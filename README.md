@@ -20,7 +20,7 @@ This **repository** contains all you need from resources, case studies, and real
 - **Design guidelines:**
   - Why this is differ from host app to another?
   - Layout standards
-  - Color schemes
+  - [Color schemes](/2.design-guidelines/3.color-scheme.md)
   - Typography
   - [iconography](/2.design-guidelines/5.iconography.md)
 - **User experience:** 
